@@ -42,7 +42,7 @@ const SignUp: React.FC = () => {
           <div className="mt-4 text-center lg:text-left">
             <p className="text-sm text-gray-400">
               Already have an account?
-              <AnchorLink href={routes.signIn} className="ml-2 font-medium underline text-blue-500">
+              <AnchorLink href={routes.minimal} className="ml-2 font-medium underline text-blue-500">
                 Login
               </AnchorLink>
             </p>
